@@ -1,0 +1,196 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+header {
+    background-image: url(https://wallpapercave.com/wp/wp9751535.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 300px;
+    padding: 50px;
+    border-radius: 3px;
+}
+
+.container {
+    display: flex;
+}
+
+.navbar {
+    background-color: rgb(248, 215, 244);
+    width: 15%;
+    border: groove 6px rgb(112, 29, 112);
+    padding: 50px 20px;
+    border-radius: 3px;
+    line-height: 50px;
+    font-size: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+h1 {
+    font-size: 40px;
+    font-family: cursive;
+    color: blueviolet;
+}
+
+.content {
+    width: 85%;
+    padding: 30px;
+    text-align: center;
+    background-color: rgb(248, 228, 248);
+}
+
+.lewd {
+    box-shadow: 0 0 20px rgb(106, 8, 109);
+}
+
+.lista {
+    list-style: none;
+}
+
+a {
+    text-decoration: none;
+}
+
+.reactions {
+    border: solid 3px rgb(250, 191, 240);
+    box-shadow: 0 0 10px violet;
+}
+
+
+table, th, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+    background-color: white;
+    margin-top: 50px;
+    padding: 15px;
+    font-size: 18px;
+    text-align: center;
+    box-sizing: inherit;
+    font-family: cursive;
+    margin-left: 300px;
+}
+
+.pyro {
+    background-color: rgb(252, 222, 222);
+}
+
+.hydro {
+    background-color: rgb(190, 225, 248);
+}
+
+.electro {
+    background-color: rgb(252, 213, 252);
+}
+
+.cryo {
+    background-color: rgb(216, 252, 252);
+}
+
+.anemo {
+    background-color: rgb(210, 250, 223);
+}
+
+.geo {
+    background-color: rgb(252, 252, 206);
+}
+
+.textotab {
+    font-size: 20px;
+}
+
+.paimon {
+    position: absolute;
+    left: 611px;
+    top: 633px;
+}
+
+.elementaltips {
+    color: rgb(167, 23, 167);
+    font-size: 25px;
+    font-family: cursive;
+    margin-top: 40px;
+    text-align: start;
+}
+
+.tips2 {
+    font-size: 15px;
+}
+
+.peace1 {
+    font-size: 25px;
+    text-align: center;
+    border: 4px groove rgb(112, 29, 112);
+    width: 250px;
+    padding: 20px;
+    margin-top: 50px;
+    background-color: rgb(250, 211, 250);
+    border-radius: 15px;
+    float: left;
+}
+
+.lista2 {
+    list-style: none;
+    margin-top: 30px;
+    font-family: cursive;
+    color: rgb(134, 40, 134);
+}
+
+h3 {
+    font-size: 35px;
+    font-family: 'Lobster', cursive;
+    color: rgb(80, 51, 80);
+    margin-bottom: 10px;
+}
+
+.peace2 {
+    font-size: 25px;
+    text-align: center;
+    border: 4px groove rgb(112, 29, 112);
+    width: 250px;
+    padding: 20px;
+    margin-top: 50px;
+    background-color: rgb(250, 211, 250);
+    border-radius: 15px;
+    float: left;
+    margin-left: 100px;
+}
+
+.lista3 {
+    list-style: none;
+    margin-top: 30px;
+    font-family: cursive;
+    color: rgb(134, 40, 134);
+}
+
+.peace3 {
+    font-size: 25px;
+    text-align: center;
+    border: 4px groove rgb(112, 29, 112);
+    width: 250px;
+    padding: 20px;
+    margin-top: 50px;
+    background-color: rgb(250, 211, 250);
+    border-radius: 15px;
+    float: left;
+    margin-left: 100px;
+}
+
+.lista4 {
+    list-style: none;
+    margin-top: 30px;
+    font-family: cursive;
+    color: rgb(134, 40, 134);
+}
+
+.tenor-gif-embed {
+    position: absolute;
+    left: 930px;
+    bottom: 311px;
+}
+
+.benett {
+    margin-top: 55px;
+    border-radius: 10px;
+}
